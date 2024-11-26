@@ -1,6 +1,6 @@
 # Descrição do projeto
 
-Este repositório foi criado para a criação do jogo no tema de Escape de um projeto acadêmico sobre o Computabilidade, utilizando a linguagem Python e suas bilbiotecas como: Tkinter, Pillow, time.
+Este repositório foi criado para a criação do jogo no tema de Escape de um projeto acadêmico sobre o Computabilidade e Complexidade de Algoritmos, utilizando a linguagem Python e suas bilbiotecas como: Tkinter, Pillow, time.
 # Funcionalidades do projeto
 
 - Resolução de problemas (enigmas).
